@@ -98,7 +98,7 @@ if (isset($_POST["delete"]) === true) {
 </head>
 
 <body>
-    <h1>詳細へようこそ</h1>
+    <h1>記事の詳細へようこそ</h1>
     <a href="index.php">HOME</a><br>
     <!--投稿したものの詳細表示-->
     <?php
