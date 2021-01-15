@@ -111,7 +111,7 @@ if (isset($_POST["delete"]) === true) {
     <br>
     <!--コメント-->
     <form action="" method="post">
-        <p>コメント投稿</p>
+        <p>コメントの投稿</p>
         <input type="hidden" name="id" value="<?= $id ?>">
         <input type="text" name="comment"><br>
         <input type="submit" name="send" value="送信"><br>
